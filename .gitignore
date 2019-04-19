@@ -1,0 +1,17 @@
+
+*.aux
+*.log
+*.gz
+*.class
+*.class
+*.class
+*.class
+Database/.DS_Store
+.DS_Store
+*.aux
+*.aux
+*.blg
+*.bbl
+*.lof
+*.class
+*.class
